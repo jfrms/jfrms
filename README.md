@@ -1,5 +1,4 @@
-### Hi there 👋
-asdhzshchacjshdc
+### Hi! I'm Jean Formento, a BSCS 4A student at West Visayas State University.
 
 <!--
 **jfrms/jfrms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
